@@ -27,7 +27,7 @@ import geetest
 # gt, challenge 的值从目标网站自己寻找, 每个网站获取方式不一样
 geetest = Geetest(gt, challenge)
 # 获取validate
-validate = geetest.crach()
+validate = geetest.crack()
 ```
 
 
